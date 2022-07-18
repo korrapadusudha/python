@@ -1,0 +1,5 @@
+name,hnum,area,pin=input("enter your name,hnum,area,pin:").split()
+print(name)
+print(hnum)
+print(area)
+print(pin)
