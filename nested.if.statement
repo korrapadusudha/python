@@ -1,0 +1,15 @@
+"""print grade of a student based on the data"""
+marks=int(input("enter students:"))
+if marks>90:
+    print("outstading")
+elif marks>80:
+    print(excellent)
+elif marks>60:
+    print(good)
+elif marks>40:
+    print("poor")
+elif marks<40:
+    print("fail")
+else:
+    print("final")
+    
