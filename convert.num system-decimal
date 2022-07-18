@@ -1,0 +1,4 @@
+num=input("enter a binary:")
+type(num)
+decimal_num=int(num,2)
+print(the decimal equalent {} is {}).format(num,decimal_num)
