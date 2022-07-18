@@ -1,0 +1,2 @@
+name,city,pin=input("enter name,city,pin:").split()
+print("my name is {0},it's city {},it's pin {}".format(name,city,pin))
