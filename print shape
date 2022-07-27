@@ -1,0 +1,16 @@
+"""print shape based given points"""
+points=int(input("enter any num of points:"))
+if points==1:
+    print("point")
+if points==2:
+   print("line")
+if points==3:
+   print("triangle")
+if points==4:
+   print("square")
+if points==5:
+   print("pentagonal")
+if points==6:
+    print("hexagonal")
+else:
+    print("out of range")
