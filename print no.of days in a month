@@ -1,0 +1,9 @@
+string=str(input("enter any string:"))
+if string=="jan" or string=="march" or string=="may" or string=="july" or string=="august" or string=="october" or string=="december":
+    print("31 days")
+elif string=="feb":
+    print("28 days or 29 days")
+elif string=="april" or string=="june" or string=="sep" or string=="november":
+    print("30 days")
+else:
+    print(end)
