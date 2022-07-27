@@ -1,0 +1,6 @@
+"""compute tax and tip on bill tax is 0.18 tip is 0.16"""
+order=int(input("enter the bill amount"))
+tip=order*0.16
+tax=order*0.18
+total=order+tip+tax
+print("this order is {} rupees, Tax is {}, Tip is {}, total bill is {}",format(order,tax,tip,total))
