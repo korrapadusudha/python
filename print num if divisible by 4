@@ -1,0 +1,4 @@
+"""print if given number is divisible by 4""" 
+a=int(input("enter any number:"))
+if a%4==0:
+    print(a)
