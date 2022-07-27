@@ -1,0 +1,4 @@
+"""program to print given number is positive"""
+a=int(input("enter any number"))
+if a>0:
+    print(a)
