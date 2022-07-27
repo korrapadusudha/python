@@ -1,0 +1,6 @@
+""" print the given number is divisible by 3,6,9 or not"""
+a=int(input("enter any number:"))
+if a%3==0 and a%6==0 and a%9==0:
+    print(a)
+else:
+    print("the given num is not divisible by 3,6,9")
