@@ -1,0 +1,15 @@
+text=str(input("enter any string:"))
+if text=="a":
+    print("vowel")
+if text=="e": 
+    print("vowel")
+if text=="i":
+    print("vowel")
+if text=="o":
+   print("vowel")
+if text=="u":
+   print("vowel")
+else:
+   print("it is not a vowel")
+ 
+    
