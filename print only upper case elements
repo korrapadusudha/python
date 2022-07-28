@@ -2,5 +2,5 @@ char=(input("enter any characters")):
 t=" "
 for i in char:
     if i>='A' and i<='Z':
-    t=t+i
-print(t)
+        t=t+i
+    print(t)
