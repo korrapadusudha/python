@@ -1,0 +1,17 @@
+list1=[1,2,3,"sudha","rani",2]
+print(len(list1))
+print(list(list1))
+list1.append([30])
+print(list1)
+list1.insert(2,34)
+print(list1.count(2))
+print(list1.index(2))
+list1.remove(2)
+print(list1)
+list1.pop(3)
+print(list1)
+list1.reverse()
+print(list1)
+
+print(len,sort,sorted,min,max,sum,count,remove,reverse,list,append,insert,pop,extend,index)
+print(len,title,lower,upper,count,find,index,endswith,startswith,isalnum,isupper,islower,istitle,lstrip,rstrip,strip,join,split,replace)
