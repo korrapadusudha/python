@@ -1,0 +1,7 @@
+def sorting(list):
+    list1=sorted(list)
+    if list==list1:
+        print("true")
+    else:
+        print("false")
+sorting([1,3,4,5,69])
